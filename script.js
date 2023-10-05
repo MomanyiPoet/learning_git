@@ -1,0 +1,3 @@
+welcome = "Hello World";
+
+console.log(welcome)
